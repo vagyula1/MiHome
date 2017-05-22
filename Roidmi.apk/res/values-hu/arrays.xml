@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_help_A">
+        <item>"It requires your phone to support Bluetooth 4.1 and download Roidmi Driver APP, if you want to connect MiJia Car Air Purifier with your phone.
+1 Turn on the device of MiJia Air Purifier 
+on your cell phone 
+2 Open Bluetooth function 
+3 Search and open Roidmi Driver APP 
+4 Find and connect MiJia Car Air Purifier according to the remind of APP. 
+Tips：The name of MiJia Car Air Purifier Bluetooth device is Car Air Purifier"</item>
+        <item>"You can use MiJia Car Air Purifier without connecting phone. 
+1 Connect power supply according to picture description 
+2 Click power/model button to start device 
+3 Click power/model button to exchange operation model"</item>
+        <item>"You can control operation speed of MiJia Car Air Purifier by Roidmi Driver APP, and it supports two control models: 
+Automatic mode –MiJia Car Air Purifier can automatically set the operation speed of fans according to the actual air situation in car 
+Manual mode - you can set the operation speed in silent、standard and fast-speed gears.."</item>
+        <item>"When the filter works about 3–6 months, you should replace it to r a better air purification effect, and it can avoid secondary pollution caused by saturated filter.When MiJia Car Air Purifier is under working status, if it detects that the filter chip need be replaced, device and APP will feedback synchronously and remind in time. 
+Ways to replace the filter chip: 
+1 Press filter door switch and open the door 
+2 Pull the filter handle, remove the old filter chip 
+3 Remove the package of new filter chip 
+4 Install filter chip, keep filter chip cloth ring up for the replacement next time and close the filter door. 
+ou can check the instruction manual to get the ways above. 
+After replacing filter chip, please click [Set the filter] function in Roidmi Driver APP to calculate the service life of the filter core."</item>
+    </string-array>
+    <string-array name="car_help_Q">
+        <item>1. How to connect MiJia Car Air Purifier with phone?</item>
+        <item>2. Can we use MiJia Car Air Purifier without connecting phone?</item>
+        <item>3. Which control models does Roidmi Driver APP support over MiJia Car Air Purifier?</item>
+        <item>4. Does the filter chip need to be replaced? How to operate?</item>
+    </string-array>
+    <string-array name="car_type">
+        <item>small car</item>
+        <item>big car</item>
+    </string-array>
+    <string-array name="help_A">
+        <item>Tips: First unplug the player from the car lighter hole, insert it again. Open the mobile Bluetooth after closing it around 10 seconds. Click to search the player again.</item>
+        <item>Tips: Insert the player into the car lighter hole again after power off. Click to search and connect it again.</item>
+        <item>Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</item>
+        <item>Tips: Open the APP. Select the player you like.</item>
+        <item>Tips: Set the Roidmi Driver APP in the mobile system as protected background application. For your reference, enter mobile settings; click protected background applications; select Roidmi Driver APP.</item>
+        <item>Tips: Click Car charger with Bluetooth on the APP homepage; Close the Automatically play while starting the car.</item>
+        <item>Tips: Click the icon on the upper right corner of the homepage; Click the settings and close the Voice Prompt.</item>
+        <item>Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</item>
+        <item>"Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it's the updated software."</item>
+        <item>Tips: Our hardware control protocol does not support the software. We recommend you to use such audio players as KuGoo, TTPOD, KUWO, QQ Music etc.</item>
+        <item>Tips：App offers shaking function(exchange music, voice recognition),exchanging music acquiescently. Shaking your phone when music playing, it will play next music after prompt tone kaka</item>
+        <item>"Tips: Try to re-open the Bluetooth of the mobile phone and search the audio player after a while if the Roidmi Music Blue C can't be found but powered on already."</item>
+        <item>Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</item>
+        <item>Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</item>
+        <item>Tips: Clean the ash from the car lighter hole if any.</item>
+        <item>Tips: Adjust the frequency of APP to the same one of the car FM.</item>
+        <item>Tips: Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</item>
+        <item>"Tips: Perhaps it's not the best choice of frequency we recommend you in your city. You'd better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software."</item>
+    </string-array>
+    <string-array name="help_Q">
+        <item>"1.Mobile phone Bluetooth can't find Roidmi Music Blue C"</item>
+        <item>2.Unable to Connect the Bluetooth</item>
+        <item>"3.The car audio doesn't work even if the Bluetooth being connected."</item>
+        <item>4.Not the Default Music Player</item>
+        <item>5.After setting up the auto play mode, the music player can not be opened automatically.</item>
+        <item>6.Disliking Auto Play Mode</item>
+        <item>7.No Need for Voice Prompts</item>
+        <item>8.How to switch the players light color?</item>
+        <item>9.Unable to use the preferred audio player in the auto-play mode？</item>
+        <item>10.Unable to Use Some Music Software？</item>
+        <item>11.How to exchange music？</item>
+        <item>12.Try to re-start Bluetooth?</item>
+        <item>13.Has the audio player been bounded with other mobile phone?</item>
+        <item>14.Try to re-connect the mobile phone?</item>
+        <item>15.Does the device have a bad contact?</item>
+        <item>16.How to deal with the car FM unable to adjust the frequency manually?</item>
+        <item>17.Why to recommend using unoccupied frequency?</item>
+        <item>18.How to find the best requency?</item>
+    </string-array>
+    <string-array name="shake_size">
+        <item>Gentle</item>
+        <item>Strong</item>
+    </string-array>
+    <string-array name="shake_type">
+        <item>Speech recognition</item>
+        <item>Next song</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="wind_type">
+        <item>Silent</item>
+        <item>Standard</item>
+        <item>fast</item>
+        <item>Auto</item>
+    </string-array>
+</resources>

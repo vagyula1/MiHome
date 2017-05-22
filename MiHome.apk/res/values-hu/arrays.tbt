@@ -1,0 +1,62 @@
+    <string-array name="mikey_bgcolor">
+        <item>@drawable/top_down_gradient_yellow</item>
+        <item>@drawable/top_down_gradient_blue</item>
+        <item>@drawable/top_down_gradient_purple</item>
+    </string-array>
+    <string-array name="mikey_title_bgcolor">
+        <item>#d19f60</item>
+        <item>#1e929f</item>
+        <item>#ff0067</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="scan_result_lists">
+        <item>http://gopopon.com/book/cover/1</item>
+    </string-array>
+    <string-array name="corridor_time">
+    </string-array>
+    <string-array name="sub_device_model_list_v2_below">
+        <item>lumi.sensor_switch</item>
+        <item>lumi.sensor_86sw1</item>
+        <item>lumi.sensor_86sw2</item>
+        <item>lumi.sensor_magnet</item>
+        <item>lumi.sensor_motion</item>
+        <item>lumi.plug</item>
+        <item>lumi.ctrl_neutral1</item>
+        <item>lumi.ctrl_neutral2</item>
+        <item>lumi.sensor_ht</item>
+        <item>lumi.sensor_cube</item>
+        <item>lumi.ctrl_86plug</item>
+    </string-array>
+    <string-array name="type_array">
+        <item>YB0F2</item>
+        <item>R51</item>
+        <item>R09</item>
+    </string-array>

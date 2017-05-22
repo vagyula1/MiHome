@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="family_memeber_names">
+        <item>Házastárs</item>
+        <item>Apa</item>
+        <item>Anya</item>
+        <item>Fiúgyermek</item>
+        <item>Lánygyermek</item>
+        <item>Szobatárs</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="mikey_menu">
+        <item>Test automation</item>
+        <item>Feladatok kezelése</item>
+        <item>Mégsem</item>
+    </string-array>
+    <string-array name="month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Már</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Szep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+</resources>
